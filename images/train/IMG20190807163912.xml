@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG20190807163912.jpg</filename>
+	<path>/home/testlab/Desktop/object_det/models/research/object_detection/images/train/IMG20190807163912.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2128</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>1930</ymin>
+			<xmax>1863</xmax>
+			<ymax>2801</ymax>
+		</bndbox>
+	</object>
+</annotation>
